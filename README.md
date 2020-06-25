@@ -1,2 +1,2 @@
 # Data-structure-And-Algorithm
-This repository the solutions of the series of 6 courses of coursera. 
+This repository contains the solutions of the series of 6 courses of coursera. 
